@@ -1,7 +1,7 @@
 # Software Design Patterns
 
 ## Assignment 1 (Builder Pattern)
-
+    
 The Builder pattern is a creational design pattern that provides a flexible solution to construct complex objects step by step. This implementation includes two examples:
 
 
