@@ -1,3 +1,3 @@
-module assignment-2
+module factory-pattern
 
 go 1.25
