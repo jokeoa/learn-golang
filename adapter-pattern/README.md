@@ -1,0 +1,40 @@
+[![](https://mermaid.ink/img/pako:eNrFVgtv0zAQ_iuWpdFWtNvaUtYZVIE2QExsQxQQQpGQSa5dRmJHjgODrv-ds5MU59FOmjRRqaqTe3139925K-rLACijfsTT9DTkS8VjTxD87O2RTymog5MoBKFJKDQo7utQilxuLUghXeXvzOdxzEPR7TkvrlMpTrnmjKRahWLpiG7iqClZ5z8bGOfokCCUn6EPeVgXgbF_r6QPaYoe5oWaA2iQ5FKpmKsslYPjAn61-ulus3XzK16aahmdbuBk1COgVCXUHPTGy13u65X4yNUSil4suA9b6iCVm__z5xv92awJuwVyNz_0c-xuqm9Az7MkkUpD8FqqmOtub2fvXgY80QDtkL-cv7sPYjTr1oizC_NnHoWYH7SaOd2pQz-RwlegEXucRBAjzblhf4V8Z_PLi62FHwgeQwvpkWwNu27voTtjEYWprYYJX_P8XcpoVwtVc_KwoB-lcVVquLljpd__I7fb6Wol6k662w17_428FQLUSnCf9tfN2rr_QCwvK3GB4O5I3_ggMd4PUaXtZs9VFv7bU2bm202xPfNXeDVEO3Z97v_fEv4AaRZVL5dLFS5DwaO8fy0xCmsIttw488w3cuYQPsdmSnSOEr6E3dfRB4jyRXAVJkVhiltwMJhtuY4YyVIolNs1arZIJUYCSEAEKSk519w2g8Ft02xD1yJgY07vazWrbmw3qcYg2Bg19XqIKtMWkfxFVLO4bVnPmixhBLc1DsAu-HcZtYeyhGekuKt3ZLxNdZPnhcRQZIHKmVF0_lOlhIuAyEwnWVkdgcpWt2CXR98KlDLPEwOLlJFVGLBhn9hF0zmTV6KDm8EOWecan17ADTcl3_dl3FlbO0TNyKNIPzNIHy31M3MOA3MameNBfjZH49Wcz7gAKypf2IfS3qNujhvMjUp79NImR4rJRTQrzxh1ZDHS3xZW0mGkY7K7Raidfq5S1jP4Zna90bCFDkBjrmmpleajjWKtMrhd8CgFlKw9Svt0qcKAMiPo0xgwkHmkdrV4VF8hLT3K8Bhw9cPktEabhIuvUsalmZLZ8ooy67dPs8Ss2-Iv80YF5xXUicyEpmx8OLU-KFvRG8qGo-n-cPJ0OB2NxsdHk-mwT39TNp3ujw-fjp8cPpngdziarPv0jw16uH-M74eT8fF4eITS0dH6Lzdgues?type=png)](https://mermaid.live/edit#pako:eNrFVgtv0zAQ_iuWpdFWtNvaUtYZVIE2QExsQxQQQpGQSa5dRmJHjgODrv-ds5MU59FOmjRRqaqTe3139925K-rLACijfsTT9DTkS8VjTxD87O2RTymog5MoBKFJKDQo7utQilxuLUghXeXvzOdxzEPR7TkvrlMpTrnmjKRahWLpiG7iqClZ5z8bGOfokCCUn6EPeVgXgbF_r6QPaYoe5oWaA2iQ5FKpmKsslYPjAn61-ulus3XzK16aahmdbuBk1COgVCXUHPTGy13u65X4yNUSil4suA9b6iCVm__z5xv92awJuwVyNz_0c-xuqm9Az7MkkUpD8FqqmOtub2fvXgY80QDtkL-cv7sPYjTr1oizC_NnHoWYH7SaOd2pQz-RwlegEXucRBAjzblhf4V8Z_PLi62FHwgeQwvpkWwNu27voTtjEYWprYYJX_P8XcpoVwtVc_KwoB-lcVVquLljpd__I7fb6Wol6k662w17_428FQLUSnCf9tfN2rr_QCwvK3GB4O5I3_ggMd4PUaXtZs9VFv7bU2bm202xPfNXeDVEO3Z97v_fEv4AaRZVL5dLFS5DwaO8fy0xCmsIttw488w3cuYQPsdmSnSOEr6E3dfRB4jyRXAVJkVhiltwMJhtuY4YyVIolNs1arZIJUYCSEAEKSk519w2g8Ft02xD1yJgY07vazWrbmw3qcYg2Bg19XqIKtMWkfxFVLO4bVnPmixhBLc1DsAu-HcZtYeyhGekuKt3ZLxNdZPnhcRQZIHKmVF0_lOlhIuAyEwnWVkdgcpWt2CXR98KlDLPEwOLlJFVGLBhn9hF0zmTV6KDm8EOWecan17ADTcl3_dl3FlbO0TNyKNIPzNIHy31M3MOA3MameNBfjZH49Wcz7gAKypf2IfS3qNujhvMjUp79NImR4rJRTQrzxh1ZDHS3xZW0mGkY7K7Raidfq5S1jP4Zna90bCFDkBjrmmpleajjWKtMrhd8CgFlKw9Svt0qcKAMiPo0xgwkHmkdrV4VF8hLT3K8Bhw9cPktEabhIuvUsalmZLZ8ooy67dPs8Ss2-Iv80YF5xXUicyEpmx8OLU-KFvRG8qGo-n-cPJ0OB2NxsdHk-mwT39TNp3ujw-fjp8cPpngdziarPv0jw16uH-M74eT8fF4eITS0dH6Lzdgues)
+# Adapter Pattern Implementation Report
+
+## Problem Solved
+
+You have a system that processes JSON data, but you need to handle XML data too. Instead of rewriting everything, the Adapter pattern lets you convert XML to work with your existing JSON processor.
+
+## Key Components
+
+### DataProcessor Interface
+```go
+type DataProcessor interface {
+    ProcessData(data string) (string, error)
+    GetSupportedFormat() string
+}
+```
+
+### JSON Processor
+- Handles JSON user data directly
+- Validates JSON format before processing
+- Returns structured results
+
+### XML Processor
+- Has its own interface (`XMLProcessor`)
+- Methods: `ProcessXML()` and `ValidateXML()`
+- Can't work directly with the main system
+
+### The Adapter (XMLToJSONAdapter)
+It:
+- Implements `DataProcessor` interface
+- Wraps the XML processor
+- Converts XML data to work with the JSON system
+- Makes XML look like JSON to the outside world
+
+## How It Works
+
+1. **Direct JSON processing**: JSON data goes straight through the JSON processor
+2. **XML processing via adapter**: XML data gets processed by the XML processor, then the adapter converts the output to match what the system expects
+
+The service doesn't know if it's dealing with JSON directly or XML through an adapter. It just calls `ProcessData()`.
