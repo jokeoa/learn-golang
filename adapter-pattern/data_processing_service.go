@@ -15,11 +15,11 @@ func NewDataProcessingService(processor DataProcessor) *DataProcessingService {
 }
 
 func (service *DataProcessingService) ProcessUserData(data string) error {
-	fmt.Printf("🔄 Processing data using %s processor...\n", service.processor.GetSupportedFormat())
+	fmt.Printf("Processing data using %s processor...\n", service.processor.GetSupportedFormat())
 
 	result, err := service.processor.ProcessData(data)
 	if err != nil {
-		fmt.Printf("❌ Processing failed: %v\n", err)
+		fmt.Printf("Processing failed: %v\n", err)
 		return err
 	}
 
