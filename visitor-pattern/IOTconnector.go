@@ -2,11 +2,9 @@ package main
 
 import "fmt"
 
+// IOTconnector is a visitor that connects devices to the local network.
 type IOTconnector struct {
 	isConnected bool
-}
-
-func (c *IOTconnector) ConnectForComputer() {
 }
 
 func (c *IOTconnector) visitComputer(computer *Computer) {

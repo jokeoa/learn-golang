@@ -1,5 +1,6 @@
 package main
 
+// main builds sample devices and applies the IOTconnector visitor to connect them.
 func main() {
 	connector := &IOTconnector{}
 
